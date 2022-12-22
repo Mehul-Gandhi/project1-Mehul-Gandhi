@@ -1,1 +1,1 @@
-https://fullstack-decal-fa22.github.io/project1-Mehul-Gandhi/
+https://mehul-gandhi.github.io/project1-Mehul-Gandhi/
